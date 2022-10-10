@@ -1,33 +1,14 @@
-# Frontend Mentor - NFT preview card component
+# NFT Crypto Card: <a href="https://nft-crypto-card.vercel.app" target="_blank">Visit Here</a>
 
-![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
+NFT Crypto Card is a digital trading card for Equilibrium.
 
-## Welcome! 👋
+![Design preview for the NFT Crypto Card](./design/desktop-preview.jpg)
 
-Thanks for checking out this front-end coding challenge.
+## Tech used: &nbsp;![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5) &nbsp;![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
-
-**To do this challenge, you need a basic understanding of HTML and CSS.**
-
-## The challenge
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
-
-## Links
-
-- Solution URL: [solution](#)
-- Live Site URL : [live site](#)
-
-## Built with
-
-- HTML
-- CSS Flexbox
+## Lessons Learned
+This project put my CSS Flexbox layout skills to the test, especially with the responsive layout.
 
 ## Author
 
-- Frontend Mentor - [@paulaxisabel](https://www.frontendmentor.io/profile/paulaxisabel) 
-- Twitter - [@codewithpau](https://twitter.com/codewithpau)
+Twitter - [@codewithpau](https://twitter.com/codewithpau)
